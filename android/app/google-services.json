@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875179051529",
+    "project_id": "feedtheneed-ad7d0",
+    "storage_bucket": "feedtheneed-ad7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875179051529:android:cc28d690a9ad631d4dc6d8",
+        "android_client_info": {
+          "package_name": "com.feedthenead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875179051529-7uegoidhe9pve815839cv08vsnsn184m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ22b1fz0umYZbPIRqJcGGIjlHSOd_4Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875179051529-7uegoidhe9pve815839cv08vsnsn184m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
